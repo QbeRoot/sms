@@ -1,6 +1,7 @@
 # Super Mario Sunshine
 
 This repo contains a WIP decompilation of Super Mario Sunshine (JP, revision 0).
+**This project has moved to [doldecomp/sms](https://github.com/doldecomp/sms).**
 
 It builds the following DOL:
 
